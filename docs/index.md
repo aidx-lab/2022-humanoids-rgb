@@ -33,3 +33,5 @@ Cite this paper as:
         title = {Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera},
         booktitle = {IEEE-RAS International Conference on Humanoid Robots (Humanoids)},
         year = 2022}
+
+[arxiv](https://arxiv.org/pdf/2311.08338)

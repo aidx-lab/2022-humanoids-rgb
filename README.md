@@ -1,4 +1,5 @@
-# 2022-humanoids-calibration
+# Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera
 
-This is the [website](https://dlr-alr.github.io/2022-humanoids-calibration) for the paper 'Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera'.
-It is hosted via GitHub Pages (theme: minima)
+# Websites
+[https://aidx-lab.org/2022-humanoids-rgb/](https://aidx-lab.org/2022-humanoids-rgb/) (main)
+[https://dlr-alr.github.io/2022-humanoids-calibration/](https://dlr-alr.github.io/2022-humanoids-calibration/) (redirect)
