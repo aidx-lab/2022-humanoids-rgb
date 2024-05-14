@@ -11,7 +11,7 @@ usemathjax: true
 
 ___
 
-The dataset contains in total \\(N=3 \ times 50 \times 5 = 750\\) measurements of the humanoid robot Agile Justin.
+The dataset contains in total \\(N=3 \times 50 \times 5 = 750\\) measurements of the humanoid robot Agile Justin.
 For each of the three markers, we selected 50 configurations.
 Measurements from 5 different head positions have been collected for each of these configurations.
 Each data point consists of a tuple \\( (q, u) \\) with the commanded joint configuration \\(q\\) and the corresponding pixel positions \\(u\\) of the markers in the RGB image.
