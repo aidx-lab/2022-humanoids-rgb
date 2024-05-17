@@ -1,4 +1,6 @@
 ---
 permalink: /lab
-redirect_to: http://www.github.com
+title: Lab
+layout: redirect
+redirect_to: https://aidx-lab.github.io
 ---
