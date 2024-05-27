@@ -3,12 +3,13 @@ layout: page
 title: 
 ---
 
-This site accompanies the paper [**Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera**](https://ieeexplore.ieee.org/document/10000184) by
+This site accompanies the paper 
+[**Self-Contained Calibration of an Elastic Humanoid Upper Body Using Only a Head-Mounted RGB Camera**](https://ieeexplore.ieee.org/document/10000184) by
 [Johannes Tenhumberg](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), 
 [Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ), 
 [Darius Burschka](https://scholar.google.com/citations?user=y-MzVoUAAAAJ), and 
-[Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at
-the 2022 IEEE-RAS International Conference on Humanoid Robots in Ginowan, Japan.
+[Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the 
+2022 IEEE-RAS International Conference on Humanoid Robots in Ginowan, Japan.
 
 
 ![Error Histogram](/assets/imgs/calibration_sketch.png){:.this
